@@ -1,4 +1,5 @@
-
+.DS_Store
+target/
 # Created by https://www.gitignore.io/api/eclipse
 
 ### Eclipse ###
@@ -7,7 +8,6 @@
 bin/
 tmp/
 *.tmp
-target/
 *.bak
 *.swp
 *~.nib
@@ -51,6 +51,3 @@ local.properties
 
 # STS (Spring Tool Suite)
 .springBeans
-
-# Code Recommenders
-.recommenders/
